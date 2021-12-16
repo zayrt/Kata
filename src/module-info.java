@@ -1,0 +1,3 @@
+module kata {
+	requires junit;
+}
